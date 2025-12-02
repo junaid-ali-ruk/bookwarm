@@ -2,7 +2,7 @@
 title: "Next.js 16: A Deep Dive into the Latest Features"
 description: "Explore the new features in Next.js 16, including Cache Components, stable Turbopack, and React 19.2 integration, to supercharge your React applications."
 date: 2025-12-02
-image: "/images/posts/nextjs-16-features.png"
+image: "/images/posts/nextjs-16-features.jpg"
 categories: ["react", "nextjs"]
 authors: ["Junaid"]
 tags: ["nextjs", "react", "turbopack", "caching"]
